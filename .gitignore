@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+
+# Private credentials
+private/
+
+# archived files
+notebooks/archive
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
